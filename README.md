@@ -1,2 +1,2 @@
-# dagnysande.github.io
+# DagnySande
 We are learning about GitHub pages  
